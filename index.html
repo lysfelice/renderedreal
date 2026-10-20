@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Anomaly Record</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600&family=Libre+Baskerville:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<main class="stage">
+  <div class="art">
+    <button id="btn-record" class="rec" aria-label="Anomaly Record"><img src="assets/record.png" alt=""></button>
+  </div>
+  <button id="snd" class="snd" aria-label="Âm thanh"><img class="on" src="assets/sound-on.png" alt="Bật nhạc"><img class="off" src="assets/sound-off.png" alt="Tắt nhạc"></button>
+</main>
+
+<div id="overlay" class="overlay">
+  <div class="ripple"><div class="swirl"></div><div class="beam"></div><span></span><span></span><span></span></div>
+  <div id="menu" class="menu">
+    <div class="logo-wrap" id="logo"><img class="logo" src="assets/record-logo.png" alt="Anomaly Record"><div class="fx"><b></b><b></b><b></b></div></div>
+    <img class="frame" src="assets/record-menu.png" alt="">
+
+
+    <div class="numwrap">
+      <div id="nums" class="nums"></div>
+      <button id="prev" class="arr l" hidden aria-label="Trước">&laquo;</button>
+      <button id="next" class="arr r" aria-label="Sau">&raquo;</button>
+    </div>
+
+    <h2 id="title" class="title"></h2>
+    <div id="content" class="content"></div>
+  </div>
+</div>
+
+<canvas id="fx"></canvas>
+<svg width="0" height="0" style="position:absolute"><filter id="liq"><feTurbulence type="fractalNoise" baseFrequency=".012 .02" numOctaves="2" seed="3"/><feDisplacementMap in="SourceGraphic" scale="90"/></filter></svg>
+<script src="script.js"></script>
+</body>
+</html>
