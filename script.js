@@ -15,7 +15,22 @@ const DATA = {
       ["mc", "Cho em thử nữa. Nhân tiện cùng tìm lại vị chủ nhân thất lạc rồi đưa mấy quả cầu nhỏ này về nhà."],
     ],
   },
-  // 1: { title: "...", lines: [["xavier","..."],["mc","..."]] },
+  1: {
+    title: "Một Thành Phố Khác",
+    lines: [
+      ["mc", "Cửa sổ vát góc, tủ lưu trữ màu xám, rồi cả mấy cỗ máy không rõ tên nữa..."],
+      ["mc", "Nơi được tái hiện trong khối cầu ký ức này là ở đâu vậy nhỉ?"],
+      ["xavier", "Chắc là một văn phòng."],
+      ["xavier", "Khung cửa sổ chữ L kết hợp với độ cao của tòa nhà có thể quan sát rộng hơn."],
+      ["xavier", "Còn về phần mấy món vũ khí đặt trên bàn và dãy tủ lưu trữ lớn dọc theo tường..."],
+      ["xavier", "Văn phòng này khả năng cao là của lực lượng hành pháp của thành phố."],
+      ["mc", "Anh quan sát tỉ mỉ thật đó. Ngay cả vụ góc nhìn rộng mà anh cũng để ý tới nữa!"],
+      ["xavier", "Không nguy hiểm gì đâu mà."],
+      ["xavier", "Góc nhìn đắc địa không chỉ giúp ích để truy bắt tội phạm thôi đâu."],
+      ["xavier", "Nó còn rất hợp để tăm tia xem tan làm nên đi ăn khuya ở đâu nữa."],
+    ],
+  },
+  // 2: { title: "...", lines: [["xavier","..."],["mc","..."]] },
 };
 
 const $ = s => document.querySelector(s);
