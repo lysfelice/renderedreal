@@ -4,7 +4,7 @@ const DATA = {
   0: {
     title: "Tên chapter 01",
     lines: [
-      ["mc", "Lời thoại mẫu của MC."],
+      ["mc", "Sao tự nhiên trước mắt em lại lóe lên rất nhiều hình ảnh xa lạ thế này..."],
       ["xavier", "Lời thoại mẫu của Xavier."],
       ["mc", "Thêm vài dòng nữa để thử cuộn nội dung. ".repeat(3)],
       ["xavier", "Dòng thoại dài hơn để xem khung xuống dòng thế nào. ".repeat(2)],
