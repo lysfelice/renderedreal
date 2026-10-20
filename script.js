@@ -2,13 +2,17 @@
 const NAMES = { mc: "MC", xavier: "Xavier" };
 const DATA = {
   0: {
-    title: "Tên chapter 01",
+    title: "Khối Cầu Thủy Tinh",
     lines: [
-      ["mc", "Sao tự nhiên trước mắt em lại lóe lên rất nhiều hình ảnh xa lạ thế này..."],
-      ["xavier", "Lời thoại mẫu của Xavier."],
-      ["mc", "Thêm vài dòng nữa để thử cuộn nội dung. ".repeat(3)],
-      ["xavier", "Dòng thoại dài hơn để xem khung xuống dòng thế nào. ".repeat(2)],
-      ["mc", "Dòng cuối của chapter."],
+      ["mc", "Sao tự nhiên trước mắt em lóe lên nhiều hình ảnh xa lạ thế... "],
+      ["xavier", "Anh cũng thấy nè. Chắc do tụi mình chạm vào mấy quả cầu thủy tinh này đấy."],
+      ["mc", "Ôi thảo nào. Hiệp hội nói đây là vật có thể lưu trữ ký ức và cần tụi mình mang trả lại."],
+      ["xavier", "Dao động năng lượng mà đồng hồ tụi mình ghi nhận cũng là do chúng."],
+      ["mc", "Vậy tụi mình mang chúng theo có mạo hiểm quá không...?"],
+      ["mc", "Á, Xavier! Anh cẩn thận, khoan chạm vào chúng—"],
+      ["xavier", "Không nguy hiểm gì đâu mà."],
+      ["xavier", "Anh chỉ hơi tò mò thế giới chỗ mấy quả cầu thủy tinh này trông như thế nào thôi."],
+      ["mc", "Cho em thử nữa. Nhân tiện cùng tìm lại vị chủ nhân thất lạc rồi đưa mấy quả cầu nhỏ này về nhà."],
     ],
   },
   // 1: { title: "...", lines: [["xavier","..."],["mc","..."]] },
