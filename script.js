@@ -29,7 +29,20 @@ const DATA = {
       ["xavier", "Nó còn rất hợp để tăm tia xem tan làm nên đi ăn khuya ở đâu nữa."],
     ],
   },
-  // 2: { title: "...", lines: [["xavier","..."],["mc","..."]] },
+  2: {
+    title: "Bản Sao",
+    lines: [
+      ["mc", "Cách thức thực thi pháp luật ở đây đáng sợ thật đấy. Sao lại có thể đánh ngất người ta ngay giữa đường thế kia..."],
+      ["mc", "Hình như em nghe thấy mấy sĩ quan truy bắt nói là anh ta "di cư trái phép" đến Trái Đất phải không?],
+      ["xavier", "Ừm, người bị bắt vốn không phải là cư dân của hành tinh này."],
+      ["xavier", "Phạm vi hoạt động hợp pháp của bọn họ có lẽ chỉ giới hạn ở một vài hành tinh vùng rìa mà thôi."],
+      ["mc", "Ngay cả chuyện này mà anh cũng biết sao?"],
+      ["xavier", "Người ngoài hành tinh đến Trái Đất trước tiên đều phải học cách ẩn mình thật kỹ."],
+      ["xavier", "Bởi vì con người sẽ không cho phép một tồn tại chưa được công nhận đặt chân vào lãnh thổ của mình đâu."],
+      ["xavier", "Kịch bản phim hay diễn như vậy mà."],
+    ],
+  },
+  // 3: { title: "...", lines: [["xavier","..."],["mc","..."]] },
 };
 
 const $ = s => document.querySelector(s);
