@@ -33,7 +33,7 @@ const DATA = {
     title: "Bản Sao",
     lines: [
       ["mc", "Cách thức thực thi pháp luật ở đây đáng sợ thật đấy. Sao lại có thể đánh ngất người ta ngay giữa đường thế kia..."],
-      ["mc", "Hình như em nghe thấy mấy sĩ quan truy bắt nói là anh ta "di cư trái phép" đến Trái Đất phải không?],
+      ["mc", "Hình như em nghe thấy mấy sĩ quan truy bắt nói là anh ta 'di cư trái phép' đến Trái Đất phải không?"],
       ["xavier", "Ừm, người bị bắt vốn không phải là cư dân của hành tinh này."],
       ["xavier", "Phạm vi hoạt động hợp pháp của bọn họ có lẽ chỉ giới hạn ở một vài hành tinh vùng rìa mà thôi."],
       ["mc", "Ngay cả chuyện này mà anh cũng biết sao?"],
