@@ -25,7 +25,6 @@ const DATA = {
       ["xavier", "Còn về phần mấy món vũ khí đặt trên bàn và dãy tủ lưu trữ lớn dọc theo tường..."],
       ["xavier", "Văn phòng này khả năng cao là của lực lượng hành pháp của thành phố."],
       ["mc", "Anh quan sát tỉ mỉ thật đó. Ngay cả vụ góc nhìn rộng mà anh cũng để ý tới nữa!"],
-      ["xavier", "Không nguy hiểm gì đâu mà."],
       ["xavier", "Góc nhìn đắc địa không chỉ giúp ích để truy bắt tội phạm thôi đâu."],
       ["xavier", "Nó còn rất hợp để tăm tia xem tan làm nên đi ăn khuya ở đâu nữa."],
     ],
